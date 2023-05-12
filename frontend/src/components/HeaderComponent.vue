@@ -6,6 +6,7 @@
           <a href="/" class="hover:text-gray-400">Home</a>
           <a href="/about" class="hover:text-gray-400">About</a>
           <a href="/lessons" class="hover:text-gray-400">Lessons</a>
+          <a href="/testimonial" class="hover:text-gray-400">Testimonial</a>
           <a href="/contact" class="hover:text-gray-400">Contact</a>
         </nav>
       </div>

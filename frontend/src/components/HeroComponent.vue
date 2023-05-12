@@ -9,7 +9,7 @@
             <p class=" text-lg md:text-xl mb-8">
                 Learn to play the piano with ease at Brighton Piano Tuition! Our experienced teacher specializes in contemporary music and offers tailored lessons to suit your individual needs. With our simple solutions and engaging teaching style, you'll be playing your favorite songs in no time.
             </p>
-            <button class="bg-white text-blue-500 font-bold py-2 px-4 rounded hover:bg-blue-500 hover:text-white">
+            <button class="bg-[#e1dca3] font-bold py-2 px-4 rounded hover:bg-[#355963ff] hover:text-white">
               Get In Touch
             </button>
           </div>
