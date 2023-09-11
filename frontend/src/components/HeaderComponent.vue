@@ -1,5 +1,5 @@
 <template>
-    <header class=" text-white relative">
+    <header class=" text-[#e1dca3] relative">
       <div class="container mx-auto px-4 py-6 flex items-center justify-between absolute">
         <a href="/" class="text-lg font-bold text-[#e1dca3]">Brighton Piano Tuition</a>
         <nav class="space-x-4">

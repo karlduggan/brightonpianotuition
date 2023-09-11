@@ -1,19 +1,27 @@
 <template>
-  <div class="bg-[#7a8a61]">
+  <!-- <div class="bg-[#7a8a61]"> -->
+    <div class="bg-white">
     <div class="h-screen">
-      <div class="container mx-auto max-w-screen-xl">
+      <div class="container mx-auto max-w-screen-xl w-[1080px]">
         <HeadderComponent></HeadderComponent>
         <HeroComponent></HeroComponent>
       </div>
     </div>
-    <div class="h-screen">
-      <AboutComponent></AboutComponent>
+    <div class="bg-white">
+      <div class="container mx-auto max-w-screen-xl w-[1080px]">
+        <AboutComponent></AboutComponent>
+      </div>
+      
     </div>
     <div class="h-screen">
-      <LessonComponent></LessonComponent>
+      <div class="container mx-auto max-w-screen-xl w-[1080px]">
+        <LessonComponent></LessonComponent>
+      </div>
     </div>
     <div class="h-screen">
-      <ContactComponent></ContactComponent>
+      <div class="container mx-auto max-w-screen-xl w-[1080px]">
+        <ContactComponent></ContactComponent>
+      </div>
     </div>
     <FooterComponent></FooterComponent>
   </div>
